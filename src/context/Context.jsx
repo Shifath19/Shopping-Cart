@@ -40,6 +40,7 @@ const[Productstate,Productdispatch] = useReducer(productReducer,
 
 };
 
+/*DONT FORGRT TO EXPORT*/
 export default Context
 
 export const CartState = ()=>{
